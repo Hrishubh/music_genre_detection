@@ -1,6 +1,5 @@
 Django
 djangorestframework
-pathlib
 os
 sys
 api
