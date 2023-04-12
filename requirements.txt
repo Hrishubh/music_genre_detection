@@ -1,6 +1,5 @@
 Django
 djangorestframework
-api
 rest_framework
 numpy
 librosa
