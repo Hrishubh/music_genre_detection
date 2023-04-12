@@ -1,6 +1,5 @@
 Django
 djangorestframework
-rest_framework
 numpy
 librosa
 tensorflow
