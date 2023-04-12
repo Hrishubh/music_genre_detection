@@ -1,7 +1,5 @@
 Django
 djangorestframework
-os
-sys
 api
 rest_framework
 numpy
